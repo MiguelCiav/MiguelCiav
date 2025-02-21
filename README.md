@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Computer Science Student at UCV (Universidad Central de Venezuela)<br>👴 19 Years Old<br>🌍 Living in Venezuela<br>🖌 I want to be a developer and a graphic designer</p>
+<p align="left">📚 Computer Science Student at UCV (Universidad Central de Venezuela)<br>👴 21 Years Old<br>🌍 Living in Venezuela<br>🖌 I want to be a developer and a graphic designer</p>
 
 ###
 
